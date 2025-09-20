@@ -1,4 +1,4 @@
 from first.nums import plus
 
-if ___ name ___=='___main___':
+if __name__=='__main__':
     print(plus(3,3))
